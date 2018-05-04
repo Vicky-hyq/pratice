@@ -1,0 +1,6 @@
+(lp0
+S'cnbc'
+p1
+aI123
+aI01
+a.
